@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.chunck {
+    background-color: rgb(228, 160, 171);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#msg {
+    color: #008bba;
+    font-size: 36px;
+}
+
+.chunck.cool{
+    font-size: 24px;
+}
+
+#txt {
+    background-color: rgb(61, 149, 61);
+    font-size: 24px;
+    font-weight: bold;
+}
